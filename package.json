@@ -10,7 +10,7 @@
         }
     ],
     "config": {
-        "port": "8088",
+        "port": "80",
         "root": "/terminal",
         "requireSSL": "false",
         "key": "",
